@@ -15,7 +15,6 @@ export const writeContacts = async (updatedContacts) => {
         } else if (updatedContacts === 'RemoveLast'){
             data.pop();
             console.log("✅ Последний контакт удален.");
-            return;
         } else if (Array.isArray(updatedContacts)) {
             data.push(...updatedContacts);
         } else {

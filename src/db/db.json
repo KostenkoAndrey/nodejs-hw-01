@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "id": "21b49d52-1085-4091-8c4e-ae9953df04dc",
+    "name": "Darren Osinski",
+    "phone": "1-321-911-2252 x545",
+    "email": "Jordyn.Hills@yahoo.com",
+    "job": "Internal Creative Manager"
+  },
+  {
+    "id": "c364e44c-88fe-48f6-b6a0-171daa885e3c",
+    "name": "Edmond Schaefer",
+    "phone": "822.967.3924 x230",
+    "email": "Stella_Cassin@gmail.com",
+    "job": "Human Optimization Liaison"
+  }
+]
